@@ -1,0 +1,12 @@
+@"
+.venv/
+venv/
+build/
+build_fixed/
+dist/
+dist_fixed/
+dist-staging/
+__pycache__/
+*.pyc
+.env
+"@ | Set-Content .gitignore

@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "c:/Users/Ashan/OneDrive/Desktop/RAG - Pipeline/.venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "c:/Users/Ashan/OneDrive/Desktop/RAG - Pipeline"
+  ],
+  "python.terminal.activateEnvironment": true
+}
